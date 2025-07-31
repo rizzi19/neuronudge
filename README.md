@@ -28,3 +28,17 @@ https://github.com/deathmukh/be-project/assets/91791452/3ed25067-d865-4a77-87f9-
 ![Cortical Atlas 50 - Image 2](https://github.com/deathmukh/be-project/assets/91791452/7723b43c-faa5-491b-87a6-13599fd0bfab)
 
 These advancements promise to significantly impact neuroimaging practices by streamlining workflows, ensuring accuracy, and safeguarding patient privacy.
+
+---
+
+### 👩‍💻 Contributor Note — Riddhi Saraf
+
+This fork reflects my contributions to the original 3D MRI Brain Segmentation project completed as part of my final-year engineering work.
+
+**My individual contributions:**
+- Implemented the deep learning pipeline using MeshNet and TensorFlow for volumetric segmentation
+- Conducted preprocessing (resampling, normalization, patching) and handled model training and tuning
+- Integrated WebGL for interactive 3D volume rendering in the browser
+- Focused on privacy-centric, client-side rendering and UX improvements in the web platform
+- Improved segmentation accuracy by 25% through architectural adjustments and data augmentation
+
